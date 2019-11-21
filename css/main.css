@@ -1,0 +1,31 @@
+html {
+  box-sizing: border-box;
+  padding: 5px;
+  margin: .9rem;
+  font-family: Ubuntu, sans-serif;
+}
+
+*, *::before, *::after {
+  box-sizing: inherit;
+}
+
+body {
+
+}
+
+a {
+
+}
+
+nav {
+
+}
+
+a:hover {
+
+}
+
+h1 {
+  text-align: center;
+  font-size: 2rem;
+}
